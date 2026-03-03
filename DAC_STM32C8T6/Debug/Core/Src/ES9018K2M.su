@@ -1,0 +1,9 @@
+../Core/Src/ES9018K2M.c:18:6:ES9018K2M_InitHandle	24	static
+../Core/Src/ES9018K2M.c:28:19:ES9018K2M_WriteReg	40	static
+../Core/Src/ES9018K2M.c:51:19:ES9018K2M_ReadReg	48	static
+../Core/Src/ES9018K2M.c:78:19:ES9018K2M_CheckConnection	24	static
+../Core/Src/ES9018K2M.c:130:19:ES9018K2M_SoftReset	24	static
+../Core/Src/ES9018K2M.c:172:19:ES9018K2M_InputConfig	24	static
+../Core/Src/ES9018K2M.c:205:19:ES9018K2M_ChannelMapping	24	static
+../Core/Src/ES9018K2M.c:253:19:ES9018K2M_SetAttenuation	16	static
+../Core/Src/ES9018K2M.c:266:19:ES9018K2M_GetAttenuation	24	static
